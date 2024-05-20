@@ -10,7 +10,7 @@ public class SumCalculator {
       for(int i=0;i<=n;i++) {
           result+=i;
       }
-        System.out.println("Some changes");
+        System.out.println("Some changesssssssssssssssssssss");
       return result;
     }
 
